@@ -1,5 +1,5 @@
 numpy>=1.9.2
-opencv
+opencv-python
 streamlit
 fastai==1.0.61
 torch==1.4.0
