@@ -1,15 +1,10 @@
 
-from fastai.vision.data import *
 from fastai.vision import *
 import numpy as np
-import torch
-from fastai.imports import *
-import pickle
 import streamlit as st
 import PIL
-import torchvision.transforms as T
 from streamlit import caching
-learn = load_learner ('D:/Intel Apprenticeship')
+learn = load_learner('')
 
 import time
 import cv2    
