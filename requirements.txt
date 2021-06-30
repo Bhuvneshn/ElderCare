@@ -2,4 +2,4 @@ numpy>=1.9.2
 opencv-python
 streamlit
 fastai==1.0.61
-PIL
+Pillow
