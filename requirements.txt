@@ -1,5 +1,5 @@
 numpy>=1.9.2
-opencv-python
+opencv-python-headless
 streamlit
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.8.1+cpu
